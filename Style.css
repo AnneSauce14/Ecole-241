@@ -1,0 +1,15 @@
+body {
+       background-color :  #9E5100;
+}
+
+.page {
+ 
+     width : 100%;
+     margin : auto;
+     font-size : 50px;
+     font-family : 'Source sans Pro' , Calibri , Tahoma , sans-serif; 
+     padding : 50px;
+     border : 5px solid #FF4151;
+     border-radius :  10px;
+     box-shadow : 2px 4px 3px black;
+     background-color : #FFC776;

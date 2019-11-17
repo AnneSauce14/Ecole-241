@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+ <head> 
+ </head> 
+ <body> 
+  <tittle> 
+   <strong>AN'SAUCE</strong> 
+  </tittle> 
+  <meta charset="utf-8"> 
+	<link rel="stylesheet" type "text/css href="style.css">
+  <div class="page"> 
+   <div class="infophoto"> 
+    <div class="info"> 
+     <p> Nom : ASSEKO <br> </p> 
+     <p>Prénom : Anne Sophie<br> Âge : 19 ans <br> </p> 
+     <p>Résidence : Derrière le Tribunal<br> </p> 
+     <p> E-mail : annaasseko@gmail.com<br> </p> 
+     <p> Ville : Libreville<br> </p> 
+    </div> 
+    <div class="photo"> 
+     <img src="Screenshot_2019-11-14-23-53-01-1-1.png" alt="Photo Anne Sophie"> 
+    </div> 
+   </div> 
+   <div class="Section "> 
+    <h2>Mon parcours scolaire </h2> 
+    <p>Licence 1 en psychologie à l'Uob 2019 </p> 
+    <p> Baccalauréat au Collège St-André 2018-2019 </p> 
+    <div> 
+     <h2> Expériences professionnelles</h2> 
+     <div class=" sec-gauche"> 
+      <p> Sans expérience professionnelle </p> 
+     </div> 
+     <div class="sec-droite"></div> 
+    </div> 
+   </div> 
+   <div class="section"> 
+    <h2> Biographie </h2> 
+    <div class="sec-gauche"> 
+     <p> Je suis une jeune fille introvertie, calme qui aime la réflexion et rire. Souvent dans les nuages à cause de ma passion pour les livres , je deviens une autre personne quand je dois remplir mes objectifs. Je ne baisse jamais les bras et m'efforce à aller jusqu'au bout. J'ai confiance en moi et je suis pleine d'objectifs que je dois accomplir , le Space app et le prix que mon équipe et moi avons gagnés m'ont permis d'avoir le déclic. <br> </p> 
+ <a href=" Video_20191116141042772_by_Videomaker.mp4 ">Ma description en vidéo </a> 
+   <a> Ma description en vidéo  </a> <br>
+     <div class="sec-droite"> 
+     </div> &lt; 
+     <h2>Réseaux sociaux </h2> 
+     <li><a href="https://m.facebook.com/annesophie.tsuki"> Facebook </a></li> 
+     <li><a href="https://www.instagram.com">instagram</a></li> 
+     <li><a href="https://m.youtube.com/channel/UCKSYXRZvath43_egY_sPqgQ"> YouTube </a></li> 
+    </div> 
+    <div class="sec-gauche"> 
+     <h2>Centres d'intérêt </h2> 
+     <p> La cuisine, la lecture &amp; l'écriture , la méditation , la musique et les mangas.</p> 
+    </div> 
+    <div class="sec-droite"> 
+     <h2>Multimédia</h2> 
+     <p>Ma musique préférée :</p> 
+     <a href="Mr. Probz - Waves.mp3">Mr. Probz - Waves </a> 
+     <h4>Mon héroïne c'est ma maman</h4> 
+     <p> Celle qui m'a montrée qu'être une mère célibataire , indépendante et entrepreneuse était possible.</p> 
+     <img src="IMG-20191115-WA0002.jpg" alt="photo Bintou peggy"> 
+    </div> 
+   </div> 
+  </div> 
+ </body>
+</html>
